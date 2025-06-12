@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - श्रेणी - Vincent Le Corre</title>
+        <title>Categories - श्रेणी - प्रकाशवृक्ष • Vincent Le Corre</title>
         <link>https://hi.vincentlecorre.org/categories/</link>
-        <description>Categories - श्रेणी - Vincent Le Corre</description>
+        <description>Categories - श्रेणी - प्रकाशवृक्ष • Vincent Le Corre</description>
         <generator>Hugo -- gohugo.io</generator><language>hi</language><atom:link href="https://hi.vincentlecorre.org/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

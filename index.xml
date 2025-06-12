@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Vincent Le Corre</title>
+        <title>प्रकाशवृक्ष • Vincent Le Corre</title>
         <link>https://hi.vincentlecorre.org/</link>
-        <description>विन्सेन्ट ले कॉरे की व्यक्तिगत वेबसाइट</description>
+        <description>Vincent Le Corre (प्रकाशवृक्ष) की व्यक्तिगत वेबसाइट</description>
         <generator>Hugo -- gohugo.io</generator><language>hi</language>
             <atom:link href="https://hi.vincentlecorre.org/index.xml" rel="self" type="application/rss+xml" />
         </channel>
